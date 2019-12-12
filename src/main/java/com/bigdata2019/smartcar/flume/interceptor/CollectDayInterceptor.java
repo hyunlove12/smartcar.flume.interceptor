@@ -1,4 +1,4 @@
-package com.bigdata2017.smartcar.flume.interceptor;
+package com.bigdata2019.smartcar.flume.interceptor;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
